@@ -1,5 +1,6 @@
 <template>
  <v-app>
+   <!-- Navigation bar -->
   <v-app-bar app color="primary" dark>
      <v-toolbar-title>
        Vuetify Dashboard
