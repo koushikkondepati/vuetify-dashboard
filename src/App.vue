@@ -2,7 +2,7 @@
  <v-app>
   <v-app-bar app class="teal darken-4" dark >
      <v-toolbar-title>
-       Vuetify Dashboard
+       Vue Dashboard
      </v-toolbar-title>
      <v-spacer />
      <v-btn 
@@ -70,6 +70,10 @@ export default {
         {
           label: 'Login',
           url: '/login'
+        },
+        {
+          label: 'Dashboard',
+          url: '/dashboard'
         }
       ]
   }),
